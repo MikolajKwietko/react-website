@@ -5,8 +5,9 @@ First website created using React. Website have components like navigation bar, 
 ## How to run
 1. Open terminal
 2. Go to website main directory
-3. Run npm start command
-4. App should open in new browser window on http://localhost:8080
+3. Run npm install command
+4. Run npm start command
+5. App should open in new browser window on http://localhost:8080
 
 ## Used in project
 - React 18
